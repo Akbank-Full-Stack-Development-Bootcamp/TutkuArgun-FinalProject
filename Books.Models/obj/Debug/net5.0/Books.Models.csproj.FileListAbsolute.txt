@@ -1,0 +1,12 @@
+C:\Users\Tutku\Desktop\Kodluyoruz Bootcamp\BitirmeProjesi\Books\Books.Models\bin\Debug\net5.0\Books.Models.deps.json
+C:\Users\Tutku\Desktop\Kodluyoruz Bootcamp\BitirmeProjesi\Books\Books.Models\bin\Debug\net5.0\Books.Models.dll
+C:\Users\Tutku\Desktop\Kodluyoruz Bootcamp\BitirmeProjesi\Books\Books.Models\bin\Debug\net5.0\ref\Books.Models.dll
+C:\Users\Tutku\Desktop\Kodluyoruz Bootcamp\BitirmeProjesi\Books\Books.Models\bin\Debug\net5.0\Books.Models.pdb
+C:\Users\Tutku\Desktop\Kodluyoruz Bootcamp\BitirmeProjesi\Books\Books.Models\obj\Debug\net5.0\Books.Models.csproj.AssemblyReference.cache
+C:\Users\Tutku\Desktop\Kodluyoruz Bootcamp\BitirmeProjesi\Books\Books.Models\obj\Debug\net5.0\Books.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tutku\Desktop\Kodluyoruz Bootcamp\BitirmeProjesi\Books\Books.Models\obj\Debug\net5.0\Books.Models.AssemblyInfoInputs.cache
+C:\Users\Tutku\Desktop\Kodluyoruz Bootcamp\BitirmeProjesi\Books\Books.Models\obj\Debug\net5.0\Books.Models.AssemblyInfo.cs
+C:\Users\Tutku\Desktop\Kodluyoruz Bootcamp\BitirmeProjesi\Books\Books.Models\obj\Debug\net5.0\Books.Models.csproj.CoreCompileInputs.cache
+C:\Users\Tutku\Desktop\Kodluyoruz Bootcamp\BitirmeProjesi\Books\Books.Models\obj\Debug\net5.0\Books.Models.dll
+C:\Users\Tutku\Desktop\Kodluyoruz Bootcamp\BitirmeProjesi\Books\Books.Models\obj\Debug\net5.0\ref\Books.Models.dll
+C:\Users\Tutku\Desktop\Kodluyoruz Bootcamp\BitirmeProjesi\Books\Books.Models\obj\Debug\net5.0\Books.Models.pdb
